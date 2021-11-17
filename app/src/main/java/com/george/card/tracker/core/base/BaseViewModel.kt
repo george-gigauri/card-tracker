@@ -1,4 +1,4 @@
-package com.george.card.tracker.base
+package com.george.card.tracker.core.base
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

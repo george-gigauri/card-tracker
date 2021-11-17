@@ -1,4 +1,4 @@
-package com.george.card.tracker.base
+package com.george.card.tracker.core.base
 
 import android.os.Bundle
 import android.view.LayoutInflater
